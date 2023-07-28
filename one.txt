@@ -1,0 +1,5 @@
+Hello
+This is a test file
+with some lines
+ending in
+a carriage return
