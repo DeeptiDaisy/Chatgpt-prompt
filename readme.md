@@ -4,7 +4,9 @@
   
        119 template  chat with marky gpt-4 power upload file and ask improve prompt  ai image genrator audio to text 
 - AIPRM  
-- eleven labs    generative voice ai
+- eleven labs:-
+  
+      generative voice ai
   
 
 +-----------+
