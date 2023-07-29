@@ -7,7 +7,10 @@
 - eleven labs:-
   
       generative voice ai
+
+- data science::-
   
+        code genrator plugin.
 
 +-----------+
          |   User    |
