@@ -1,4 +1,18 @@
-         +-----------+
+# Tools for AI
+
+- Easy-peasy-ai :-
+  
+       119 template  chat with marky gpt-4 power upload file and ask improve prompt  ai image genrator audio to text 
+- AIPRM  
+- eleven labs:-
+  
+      generative voice ai
+
+- data science::-
+  
+        code genrator plugin.
+
++-----------+
          |   User    |
          +-----------+
          | user_id   | (Primary Key)
