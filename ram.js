@@ -165,23 +165,116 @@
 //   });
 
 
-  function sumOfNumbers(...numbers) {
-    return new Promise((resolve, reject) => {
-       if (numbers.length>3){
-        reject("only three elements or less are allowed")
-       }
-       else{
-        let sum = 0;
-        let i=0;
-        while(i< numbers.length){
-          sum += numbers[i];
-          i++;
-        }
-        resolve("Sum has been calculated: " +sum);
-       }
-})
-}
+//   function sumOfNumbers(...numbers) {
+//     return new Promise((resolve, reject) => {
+//        if (numbers.length>3){
+//         reject("only three elements or less are allowed")
+//        }
+//        else{
+//         let sum = 0;
+//         let i=0;
+//         while(i< numbers.length){
+//           sum += numbers[i];
+//           i++;
+//         }
+//         resolve("Sum has been calculated: " +sum);
+//        }
+// })
+// }
 
-sumOfNumbers(4,5,6)
-.then(result => console.log(result))
-.catch(error => console.log(error));
+// sumOfNumbers(4,5,6)
+// .then(result => console.log(result))
+// .catch(error => console.log(error));
+
+//console.log(arr.[0]); // a syntax error
+//console.log(years["2"] !== years["02"]);
+
+// const fruits = [];
+// fruits.push("banana", "apple", "peach");
+// console.log(fruits.length); // 3
+// fruits.push("mango")
+// console.log(fruits);
+
+// fruits[5] = "Grapes";
+// console.log(fruits[5]); // 'Grapes'
+// console.log(Object.keys(fruits)); // ['0', '1', '2', '5']
+// console.log(fruits.length); // 6
+
+// fruits.length = 10;
+// console.log(fruits); // ['banana', 'apple', 'peach', empty x 2, 'mango', empty x 4]
+// console.log(Object.keys(fruits)); // ['0', '1', '2', '5']
+// console.log(fruits.length); // 10
+// console.log(fruits[9]); // undefined
+
+
+const animals = ['ant', 'bison', 'camel', 'duck', 'elephant'];
+
+// console.log(animals.slice(2));
+// console.log(animals.slice(2,4));//[ 'camel', 'duck' ]
+
+// console.log(animals.slice(1,5));//[ 'bison', 'camel', 'duck', 'elephant' ]
+
+// console.log(animals.slice(2,8));//[ 'camel', 'duck', 'elephant' ]
+// console.log(animals.slice(-2));// 'duck', 'elephant' ]
+// console.log(animals.slice(2,-1));//[ 'camel', 'duck' ]
+
+
+// Using slice, create newCar from myCar.
+// const myHonda = {
+//   color: "red",
+//   wheels: 4,
+//   engine: { cylinders: 4, size: 2.2 },
+// };
+// const myCar = [myHonda, 2, "cherry condition", "purchased 1997"];
+// const newCar = myCar.slice(0, 2);
+
+// console.log("myCar =", myCar);
+// console.log("newCar =", newCar);
+// console.log("myCar[0].color =", myCar[0].color);
+// console.log("newCar[0].color =", newCar[0].color);
+
+// // Change the color of myHonda.
+// myHonda.color = "purple";
+// console.log("The new color of my Honda is", myHonda.color);
+
+// console.log("myCar[0].color =", myCar[0].color);
+// console.log("newCar[0].color =", newCar[0].color);
+
+
+//Splice method
+
+// const months = ['Jan', 'March', 'April', 'June'];
+// months.splice(1, 0, 'Feb');
+// // Inserts at index 1
+// console.log(months);
+// // Expected output: Array ["Jan", "Feb", "March", "April", "June"]
+
+// months.splice(4, 1, 'May');
+// // Replaces 1 element at index 4
+// console.log(months);
+// Expected output: Array ["Jan", "Feb", "March", "April", "May"]
+
+
+const myFish = ["angel", "clown", "mandarin", "sturgeon"];
+const removed = myFish.splice(2, 0, "drum");
+
+// myFish is ["angel", "clown", "drum", "mandarin", "sturgeon"]
+// removed is [], no elements removed
+// console.log(myFish);
+// console.log(removed);
+
+// const arr = [1, , 3, 4, , 6];
+// console.log(arr.splice(1, 2)); // [empty, 3]
+// console.log(arr); // [1, 4, empty, 6]
+
+const arrayLike = {
+  length: 3,
+  unrelated: "foo",
+  0: 5,
+  2: 4,
+};
+console.log(Array.prototype.splice.call(arrayLike, 0, 1, 2, 3));
+// [ 5 ]
+console.log(arrayLike);
+// { '0': 2, '1': 3, '3': 4, length: 4, unrelated: 'foo' }
+
