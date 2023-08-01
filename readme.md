@@ -11,10 +11,12 @@
 - data science::-
 
 - Merlin :-
-          to Get FREE GPT-4 Access, Write AI Emails replies, Summarize Videos, Chatting with Documents, and More! 🤖
+          to Get FREE GPT-4 Access, Write AI Emails replies, Summarize Videos, Google search, Chatting with Documents, and More! 🤖
 - Flowgpt :-
           an alternative to ChatGPT & Access to 5000+ ChatGPT Prompts use chatgpt 4 feature with this tool
+- Official Website of SnackPrompt is as below:
 
+                   https://snackprompt.com/
 Please refer to the document below to Get access to All Prompts
 
 Click on the link below to access:
