@@ -5,12 +5,15 @@
        119 template  chat with marky gpt-4 power upload file and ask improve prompt  ai image genrator audio to text 
 - AIPRM  
 - eleven labs:-
-  
+
       generative voice ai
 
 - data science::-
-  
 
+- Merlin :-
+          
+- Flowgpt :-
+          use chatgpt 4 feature with this tool
 
 Please refer to the document below to Get access to All Prompts
 
