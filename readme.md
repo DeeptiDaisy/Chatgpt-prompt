@@ -11,9 +11,9 @@
 - data science::-
 
 - Merlin :-
-          
+          to Get FREE GPT-4 Access, Write AI Emails replies, Summarize Videos, Chatting with Documents, and More! 🤖
 - Flowgpt :-
-          use chatgpt 4 feature with this tool
+          an alternative to ChatGPT & Access to 5000+ ChatGPT Prompts use chatgpt 4 feature with this tool
 
 Please refer to the document below to Get access to All Prompts
 
