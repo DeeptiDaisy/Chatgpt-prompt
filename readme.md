@@ -10,77 +10,10 @@
 
 - data science::-
   
-        code genrator plugin.
 
-+-----------+
-         |   User    |
-         +-----------+
-         | user_id   | (Primary Key)
-         | username  |
-         | email     |
-         | password  |
-         | address   |
-         | phone     |
-         +-----------+
 
-            ||
-            \/
+Please refer to the document below to Get access to All Prompts
 
-         +-----------+
-         |  Product  |
-         +-----------+
-         | product_id| (Primary Key)
-         | name      |
-         | price     |
-         | quantity  |
-         | category_id| (Foreign Key to Category)
-         +-----------+
+Click on the link below to access:
 
-            ||
-            \/
-
-         +-----------+
-         | Category  |
-         +-----------+
-         | category_id| (Primary Key)
-         | name      |
-         +-----------+
-
-            ||
-            \/
-
-         +-----------+
-         |   Order   |
-         +-----------+
-         | order_id  | (Primary Key)
-         | user_id   | (Foreign Key to User)
-         | total_amount|
-         | order_date|
-         | status    |
-         +-----------+
-
-            ||
-            \/
-
-         +-----------------+
-         |   OrderItem     |
-         +-----------------+
-         | order_item_id   | (Primary Key)
-         | order_id        | (Foreign Key to Order)
-         | product_id      | (Foreign Key to Product)
-         | quantity        |
-         | price_per_unit  |
-         +-----------------+
-
-            ||
-            \/
-
-         +--------------+
-         |   Payment    |
-         +--------------+
-         | payment_id   | (Primary Key)
-         | order_id     | (Foreign Key to Order)
-         | payment_date |
-         | amount       |
-         | payment_status |
-         +--------------+
+https://www.notion.so/AI-Content-Creation-Course-Prompts-ChatGPT-Champion-9f0fed6a55d54331a964b3b86f104703?pvs=4#c6214937b9b34cf28143fd8fc209d130
