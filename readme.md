@@ -29,3 +29,18 @@ https://www.notion.so/AI-Content-Creation-Course-Prompts-ChatGPT-Champion-9f0fed
   https://www.notion.so/AI-Content-Creation-Course-Prompts-ChatGPT-Champion-9f0fed6a55d54331a964b3b86f104703?pvs=4#82953b00f3f8413dbc9f01e554a92dc0
   
 write with more catchy headline and script
+
+Please click on the Link below to Watch Step-by-Step Tutorial on How to Use Monica AI Tool
+
+https://links.aigrowthclub.com/ccb-daily-tthr-july6
+>💻 Feature Highlights:
+💡 Chatbot: Open the Sidebar to chat with Monica easily about anything, all powered by GPT-4 and GPT-3.5, just as intelligent as ChatGPT.
+💡 Search Enhance: Load ChatGPT answers next to search tools like Google and newbing.
+💡 Web Browser: Plugin using ChatGPT technology can access the real-time internet.
+💡 Copywriting: Easily create ad copy using Monica's AI capabilities.
+💡 Prompt Library: A promptbase that provides a large number of prompts based on Chatgpt, GPT-3.5, and GPT-4.
+💡 YouTube summary: Quickly summarize video content without wasting a lot of time watching videos.
+💡 ChatPDF: Allows you to have a ChatGPT-like conversation experience with any PDF content to get information.
+💡 Quick Action: Translate, paraphrase, and explain any text on any webpage.
+💡 AI painting: Allows you to generate images by entering text, just like using Midjourney, stable diffusion, and Dall-E to draw.
+💡 Voice Control: Similar to Voice Control for ChatGPT, input by voice and get AI answers from ChatGPT, and will consider using openAI's whisper technology to improve voice recognition accuracy in the future.
